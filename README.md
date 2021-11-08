@@ -18,6 +18,6 @@ Votre solution contribuera à une optimisation des tournées pour l’entretien 
 Suite à un problème de merge il existe 3 versions du notebook:
 1) "DataExplo" by Arthur
 2) "ProjetIA2_Data4good", merge Sarah Arthur (ce notebook plante du aux conflits de merging)
-3) "Projet IA2_Data4good" by Sarah
+3) "ProjetIA2_Data4good_v2" by Sarah
 
 *Il est donc conseillé de regarder les versions 1 et 3 en particulier pour voir les deux approches abordées.*
