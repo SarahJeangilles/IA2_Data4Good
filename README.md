@@ -13,3 +13,6 @@ Votre solution contribuera à une optimisation des tournées pour l’entretien 
 * Le second livrable prendra la forme d’un Notebook Jupyter. Le Notebook sera documenté pour expliciter les différents traitements, calculs ou graphiques que vous effectuez en utilisant les fonctionnalités d’édition de texte de Jupyter. Vos explications doivent permettre à un public non technique de comprendre les différentes étapes de votre analyse et votre synthèse.
 * Le troisième livrable ( optionnel mais permettra de se différencier des autres participants) prendra la forme d’un dashboard PowerBI avec au moins 4 visualisations
 * Vous travaillez en binôme et vous avez 20 min pour présenter votre solution
+
+## Attention
+Suite à un problème de merge il existe 3 versions du notebook
